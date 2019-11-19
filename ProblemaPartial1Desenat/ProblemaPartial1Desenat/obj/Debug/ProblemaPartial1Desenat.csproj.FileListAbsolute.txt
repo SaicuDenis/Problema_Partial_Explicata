@@ -1,0 +1,20 @@
+D:\An 2\sem1\Metode avansate de programare\ProblemaPartial1Desenat\ProblemaPartial1Desenat\bin\Debug\ProblemaPartial1Desenat.exe.config
+D:\An 2\sem1\Metode avansate de programare\ProblemaPartial1Desenat\ProblemaPartial1Desenat\bin\Debug\ProblemaPartial1Desenat.exe
+D:\An 2\sem1\Metode avansate de programare\ProblemaPartial1Desenat\ProblemaPartial1Desenat\bin\Debug\ProblemaPartial1Desenat.pdb
+D:\An 2\sem1\Metode avansate de programare\ProblemaPartial1Desenat\ProblemaPartial1Desenat\obj\Debug\ProblemaPartial1Desenat.csprojAssemblyReference.cache
+D:\An 2\sem1\Metode avansate de programare\ProblemaPartial1Desenat\ProblemaPartial1Desenat\obj\Debug\ProblemaPartial1Desenat.Form1.resources
+D:\An 2\sem1\Metode avansate de programare\ProblemaPartial1Desenat\ProblemaPartial1Desenat\obj\Debug\ProblemaPartial1Desenat.Properties.Resources.resources
+D:\An 2\sem1\Metode avansate de programare\ProblemaPartial1Desenat\ProblemaPartial1Desenat\obj\Debug\ProblemaPartial1Desenat.csproj.GenerateResource.cache
+D:\An 2\sem1\Metode avansate de programare\ProblemaPartial1Desenat\ProblemaPartial1Desenat\obj\Debug\ProblemaPartial1Desenat.csproj.CoreCompileInputs.cache
+D:\An 2\sem1\Metode avansate de programare\ProblemaPartial1Desenat\ProblemaPartial1Desenat\obj\Debug\ProblemaPartial1Desenat.exe
+D:\An 2\sem1\Metode avansate de programare\ProblemaPartial1Desenat\ProblemaPartial1Desenat\obj\Debug\ProblemaPartial1Desenat.pdb
+C:\Users\Denis\Desktop\ProblemaPartial1Desenat\ProblemaPartial1Desenat\bin\Debug\ProblemaPartial1Desenat.exe.config
+C:\Users\Denis\Desktop\ProblemaPartial1Desenat\ProblemaPartial1Desenat\bin\Debug\ProblemaPartial1Desenat.exe
+C:\Users\Denis\Desktop\ProblemaPartial1Desenat\ProblemaPartial1Desenat\bin\Debug\ProblemaPartial1Desenat.pdb
+C:\Users\Denis\Desktop\ProblemaPartial1Desenat\ProblemaPartial1Desenat\obj\Debug\ProblemaPartial1Desenat.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\ProblemaPartial1Desenat\ProblemaPartial1Desenat\obj\Debug\ProblemaPartial1Desenat.Form1.resources
+C:\Users\Denis\Desktop\ProblemaPartial1Desenat\ProblemaPartial1Desenat\obj\Debug\ProblemaPartial1Desenat.Properties.Resources.resources
+C:\Users\Denis\Desktop\ProblemaPartial1Desenat\ProblemaPartial1Desenat\obj\Debug\ProblemaPartial1Desenat.csproj.GenerateResource.cache
+C:\Users\Denis\Desktop\ProblemaPartial1Desenat\ProblemaPartial1Desenat\obj\Debug\ProblemaPartial1Desenat.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\ProblemaPartial1Desenat\ProblemaPartial1Desenat\obj\Debug\ProblemaPartial1Desenat.exe
+C:\Users\Denis\Desktop\ProblemaPartial1Desenat\ProblemaPartial1Desenat\obj\Debug\ProblemaPartial1Desenat.pdb
